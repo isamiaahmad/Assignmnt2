@@ -17,5 +17,6 @@ int main(void){
    printf("In the parent Process :/n Name is S. Aliand CNIC is 30000000000000\n");
  }
 
- return 0;
-}
+ return 0; 
+} pid, status;
+pid 
